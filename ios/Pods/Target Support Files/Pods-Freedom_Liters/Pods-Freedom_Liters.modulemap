@@ -1,0 +1,6 @@
+module Pods_Freedom_Liters {
+  umbrella header "Pods-Freedom_Liters-umbrella.h"
+
+  export *
+  module * { export * }
+}
